@@ -1,0 +1,13 @@
+name: PredictNextWord_CapstoneProject
+title: PredictNextWord_CapstoneProject
+username:
+account: juandratto
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3303928
+bundleId: 3907482
+url: https://juandratto.shinyapps.io/PredictNextWord_CapstoneProject/
+when: 1606361874.55328
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: PredictNextWordPresent.html|PredictNextWordPresent.Rmd
